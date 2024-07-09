@@ -51,7 +51,7 @@ public class Main
 
     public static int[] listsort(int[] list)
     {
-        // בפונקציה הזאתי נסדר הרשימה מהגודל לקטן(הוספתי לכיף תהנה)
+        // בפונקציה הזאתי נסדר הרשימה מהגודל לקטן
         for (int i = 0; i < list.length; i++) 
         {
             for (int j = i + 1; j < list.length; j++) 
