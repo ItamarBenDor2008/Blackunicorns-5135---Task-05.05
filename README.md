@@ -1,4 +1,4 @@
-# Blackunicorns-5135---Task-02.02
+# Blackunicorns-5135---Task-05.05
 
 ## The task
 
@@ -23,13 +23,13 @@ important comments:
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/ItamarBenDor2008/Blackunicorns-5135---Task-02.02.git
+    git clone https://github.com/ItamarBenDor2008/Blackunicorns-5135---Task-05.05.git
     ```
 
 2. Get into the folder
 
     ```sh
-    cd PrimeNumbers__Task_0202
+    cd PrimeNumbers__Task_0505
     cd src
     ```
 3. Run the program
